@@ -1,0 +1,18 @@
+﻿circlename,regionname,divisionname,officename,pincode,officetype,delivery,district,statename,latitude,longitude
+"Telangana Circle","Hyderabad Region","Adilabad Division","Kothimir B.O",504273,BO,Delivery,"KUMURAM BHEEM ASIFABAD",TELANGANA,19.3638689,79.5376658
+"Telangana Circle","Hyderabad Region","Adilabad Division","Kothimir B.O",504273,BO,Delivery,"KUMURAM BHEEM ASIFABAD",TELANGANA,19.3638689,79.5376658
+"Telangana Circle","Hyderabad Region","Adilabad Division","  Asifabad   S.O.",504273,PO,"Non Delivery","KUMURAM BHEEM ASIFABAD",TELANGANA,NA,NA
+"Delhi Circle","Delhi Region","New Delhi GPO Division","New Delhi GPO",110001,HO,Delivery,"NEW DELHI",DELHI,28.6358,77.2245
+"Telangana Circle","Hyderabad Region","Medak Division","Kondapak BO",502255,BO,Delivery,NA,NA,NA,NA
+"Gujarat Circle","Vadodara Region","Valsad Division","Daman SO",396210,PO,Delivery,DAMAN,"THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",20.41,72.83
+"Andhra Pradesh Circle","Kurnool Region","Cuddapah Division","Cuddapah H.O",516001,HO,Delivery,Y.S.R.,"ANDHRA PRADESH",14.47,78.82
+"Andhra Pradesh Circle","Vijayawada Region","Bapatla Division","Bapatla HO",522101,HO,Delivery,Bapatla,"ANDHRA PRADESH",15.90,80.46
+"Himachal Pradesh Circle","Shimla Region","Mandi Division","Keylong S.O",175132,PO,Delivery,"LAHUL AND SPITI","HIMACHAL PRADESH",32.57,77.03
+"Bad Circle","Bad Region","Bad Division","No Pin BO",ABC,BO,Delivery,AGRA,"UTTAR PRADESH",NA,NA
+"Rajasthan Circle","Ajmer Region","Kota Division","Relawan  B.O. B.O",325215,BO,Delivery,BARAN,RAJASTHAN,NA,NA
+"Telangana Circle","Hyderabad Region","Nalgonda Division","DuppalliB.O",325215,BO,Delivery,BARAN,RAJASTHAN,NA,NA
+"Telangana Circle","Hyderabad Region","Siddipet Division","Tadur Bo",325215,BO,Delivery,BARAN,RAJASTHAN,NA,NA
+"Tamil Nadu Circle","Western Region","Coimbatore Division","NDC Coimbatore HO",641001,PO,Delivery,COIMBATORE,"TAMIL NADU",NA,NA
+"Jharkhand Circle","Ranchi Region","Dhanbad Division","NDC DHANBAD ",826011,PO,Delivery,DHANBAD,JHARKHAND,NA,NA
+"Andhra Pradesh Circle","Vijayawada Region","Vijayawada Division","Kondapalli B.O",521228,BO,Delivery,NTR,"ANDHRA PRADESH",NA,NA
+"Jammu and Kashmir Circle","Jammu Region","Jammu Division","Gandhi Nagar S.O",180004,PO,Delivery,JAMMU,"JAMMU & KASHMIR",NA,NA

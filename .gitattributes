@@ -1,0 +1,10 @@
+# Keep `composer require` installs small: only src/ and data/ ship.
+/bin              export-ignore
+/tests            export-ignore
+/phpunit.xml.dist export-ignore
+/.gitattributes   export-ignore
+/.gitignore       export-ignore
+/.github          export-ignore
+
+# Fold the generated data files in GitHub diffs and leave them out of the language stats.
+/data/*.php       linguist-generated=true
